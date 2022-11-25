@@ -19,6 +19,7 @@
 .heroimg {
     max-width: 350px;
     margin-bottom: -40px;
+    margin-left: -20px;
 }
 body {
     background: #f4f4f4;
