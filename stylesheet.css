@@ -26,23 +26,31 @@ body {
 }
 
 /* Privacy Policy Page Styles */
-.policy-page {
-    margin-top: 10vh;
+.content_container.policy-page {
+    margin-top: 60px;
+    margin-bottom: 60px;
     text-align: left;
 }
-.policy-page .main {
+.content_container.policy-page .main2,
+.content_container.policy-page p,
+.content_container.policy-page ul,
+.content_container.policy-page li {
+    text-align: left;
+}
+.content_container.policy-page .main {
     text-align: center;
 }
-.policy-page h3 {
+.content_container.policy-page h3 {
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 20px;
+    text-align: left;
 }
-.policy-page ul {
+.content_container.policy-page ul {
     padding-left: 20px;
     margin: 10px 0;
 }
-.policy-page li {
+.content_container.policy-page li {
     margin-bottom: 5px;
 }
 .back-link {
