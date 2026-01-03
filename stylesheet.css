@@ -24,3 +24,46 @@
 body {
     background: #f4f4f4;
 }
+
+/* Privacy Policy Page Styles */
+.policy-page {
+    margin-top: 10vh;
+    text-align: left;
+}
+.policy-page .main {
+    text-align: center;
+}
+.policy-page h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.policy-page ul {
+    padding-left: 20px;
+    margin: 10px 0;
+}
+.policy-page li {
+    margin-bottom: 5px;
+}
+.back-link {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.back-link a {
+    color: #333;
+}
+
+/* Footer Links */
+.footer-links {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+.footer-links a {
+    color: #666;
+    text-decoration: none;
+}
+.footer-links a:hover {
+    text-decoration: underline;
+}
